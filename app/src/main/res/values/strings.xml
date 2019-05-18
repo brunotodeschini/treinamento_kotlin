@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ExtratoRCA</string>
+    <string name="titleLogin">Login</string>
+    <string name="subtitleLogin">Faça login para ver os seus extratos</string>
+    <string name="loginText">Login</string>
+    <string name="fieldLogin"></string>
+    <string name="textPassword">Senha</string>
+    <string name="fieldPassword"></string>
+    <string name="buttonLogin">Entrar</string>
+    <string name="mensageError">Login ou Senha incorretos</string>
+    <string name="loginCorrect" />
+    <string name="nameUser" />
+    <string name="available">Disponível</string>
+    <string name="availableValue" />
+    <string name="limitText">Limite: </string>
+    <string name="limitValue" />
+    <string name="usedValueField" />
+    <string name="usedTextName">Utilizado: </string>
+    <string name="toolbatTitle">Extratos</string>
+    <string name="backButton" />
+    <string name="teste" />
+</resources>

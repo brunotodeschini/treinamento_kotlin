@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleLogin">35sp</dimen>
+    <dimen name="subtitleLoginText">15sp</dimen>
+    <dimen name="textLogin">20sp</dimen>
+    <dimen name="fieldLogin">20sp</dimen>
+    <dimen name="textPassword">20sp</dimen>
+    <dimen name="fieldPassword">20sp</dimen>
+    <dimen name="buttonLogin">22sp</dimen>
+    <dimen name="mensageError">18sp</dimen>
+    <dimen name="menu_toolbar">40dp</dimen>
+    <dimen name="smallFields">15sp</dimen>
+    <dimen name="camposSecond">20sp</dimen>
+</resources>
